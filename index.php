@@ -9,5 +9,6 @@
 <body>
     <h1>Hello World!!</h1>
     <p><?= echo "Documentation, guides, and help topics for software developers, designers, and project managers. Covers using Git, pull requests, issues, wikis, gists, and everything you need to make the most of GitHub for development."?></p>
+    <p><?= echo "Documentation, guides, and help topics for software developers, designers, and project managers. Covers using Git, pull requests, issues, wikis, gists, and everything you need to make the most of GitHub for development."?></p>
 </body>
 </html>
